@@ -32,5 +32,4 @@ npm start
 
 ---
 
-Let me know when that’s done — I’ll guide you with the final polish (like screenshots or project summary for documentation or submission)!
-# multi-tier-ci-cd
+
